@@ -1,0 +1,17 @@
+{
+  "name": "image-repo",
+  "version": "1.0.0",
+  "description": "Shopify backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehtab Gill",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^7.0.0",
+    "elasticsearch": "^16.7.2",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3"
+  }
+}
